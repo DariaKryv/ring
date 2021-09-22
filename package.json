@@ -1,0 +1,25 @@
+{
+  "name": "ring",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "test@1.0.0 list /home/user/fake",
+    "title": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "to-title-case": "^1.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DariaKryv/ring.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DariaKryv/ring/issues"
+  },
+  "homepage": "https://github.com/DariaKryv/ring#readme",
+  "description": ""
+}
